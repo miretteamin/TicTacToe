@@ -1,0 +1,12 @@
+C:\Users\Mirette\Documents\Applications\C#\My Projects\Tic_Tac_Toe\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.exe.config
+C:\Users\Mirette\Documents\Applications\C#\My Projects\Tic_Tac_Toe\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.exe
+C:\Users\Mirette\Documents\Applications\C#\My Projects\Tic_Tac_Toe\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.pdb
+C:\Users\Mirette\Documents\Applications\C#\My Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.FirstForm.resources
+C:\Users\Mirette\Documents\Applications\C#\My Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.OnePlayerfrm.resources
+C:\Users\Mirette\Documents\Applications\C#\My Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.OnePlayerfrmDetails.resources
+C:\Users\Mirette\Documents\Applications\C#\My Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Mirette\Documents\Applications\C#\My Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.TwoPlayersfrm.resources
+C:\Users\Mirette\Documents\Applications\C#\My Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.TwoPlayersfrmDetails.resources
+C:\Users\Mirette\Documents\Applications\C#\My Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.csproj.GenerateResource.Cache
+C:\Users\Mirette\Documents\Applications\C#\My Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.exe
+C:\Users\Mirette\Documents\Applications\C#\My Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.pdb
